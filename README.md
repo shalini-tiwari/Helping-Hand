@@ -4,7 +4,7 @@
 <div style="margin-bottom: 2em;">
   <p align="center">
   <span>
-    <a style="font-size: 16px;" href="https://soumita1234.github.io/HelpingHand/">Website</a> &bullet;
+    <a style="font-size: 16px;" href="/">Website</a> &bullet;
     <!-- <a style="font-size: 16px;" href="#">Docs</a>  &bullet; -->
     </span>
   </p>
