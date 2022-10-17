@@ -31,7 +31,7 @@ git clone --depth 1 https://github.com/<your_name>/HelpingHand.git
 **2.** Navigate to the project directory :file_folder: .
 
 ```
-cd HelpingHand
+cd HelpingHand-
 ```
 
 **3.** Add a reference(remote) to the original repository.
