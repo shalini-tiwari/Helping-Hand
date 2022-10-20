@@ -1,5 +1,5 @@
 <h1 align="center">HelpingHand 🤝</h1>
-<h4 align="center"> A payment integrated donation website through which one can donate, just by a click. </h4>
+<h4 align="center"> A payment integrated donation website through which one can donate, just by a Click. </h4>
 
 <div style="margin-bottom: 2em;">
   <p align="center">
